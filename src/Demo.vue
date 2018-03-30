@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import { BarChart } from '@/components/BarChart'
+import BarChart from '@/components/BarChart'
 
 export default {
   name: 'Demo',
