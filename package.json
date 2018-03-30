@@ -1,0 +1,16 @@
+{
+  "name": "vue-c3",
+  "version": "0.0.1",
+  "description": "a VueJS wrapper for the C3 charts library",
+  "main": "barchart.js",
+  "author": "Elliot Forbes",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/elliotforbes/vue-c3"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "webpack": "^4.4.1"
+  }
+}
