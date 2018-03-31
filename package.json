@@ -10,6 +10,7 @@
     "url": "https://github.com/elliotforbes/vue-c3"
   },
   "dependencies": {
+    "c3": "^0.5.1",
     "vue-server-renderer": "^2.5.16"
   },
   "devDependencies": {

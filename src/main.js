@@ -3,7 +3,8 @@ import Demo from './Demo'
 
 Vue.config.productionTip = false
 
-new Vue({ // eslint-disable-line no-new
+/* eslint-disable no-new */
+new Vue({
   el: '#app',
   render: h => h(Demo)
 })
